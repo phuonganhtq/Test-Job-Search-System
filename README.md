@@ -24,6 +24,5 @@ Tệp Excel này chứa các test case dùng cho việc kiểm thử hệ thốn
 2. Duyệt qua các sheet để xem các test case tương ứng.
 3. Thực hiện test theo hướng dẫn trong từng sheet.
 
-## Liên hệ
-Nếu bạn có bất kỳ thắc mắc hoặc góp ý, vui lòng liên hệ với nhóm QA hoặc nhà phát triển phần mềm.
+
 
